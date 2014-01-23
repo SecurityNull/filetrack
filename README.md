@@ -14,7 +14,7 @@ Due to the great importance of keeping a record of all changes to files and fold
 
 <p>v1.0 Release (23.01.2014)</p>
 
-Can detect:
+Detection features:
 
 - Creating a file or folder. 
 - Modifying a File. 
@@ -22,3 +22,7 @@ Can detect:
 - Renaming a file or folder. 
 - Changing the location of a file or folder. 
 - Open or access a file or folder.
+
+<h2>Copyright and license
+
+Copyright 2013 SecurityNull, Inc under the GPL v3 license.<h2>
