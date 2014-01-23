@@ -23,6 +23,6 @@ Detection features:
 - Changing the location of a file or folder. 
 - Open or access a file or folder.
 
-<h2>Copyright and license
+<h3>Copyright and license
 
-Copyright 2013 SecurityNull, Inc under the GPL v3 license.<h2>
+Copyright 2013 SecurityNull, Inc under the GPL v3 license.<h3>
